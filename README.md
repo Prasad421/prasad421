@@ -1,3 +1,4 @@
+![logo](programmer.gif)
 ### Hi there 👋
 
 <!--
